@@ -1,0 +1,7 @@
+1- Abrir el archivo de lista1 y almacenar todas sus lineas en sus respectivos
+tipos de datos.
+
+2- Hace un algoritmo para determinar si un número es primo o no.
+
+3- Hacer un algoritmo para identificar cuantas repeticiones de una letra hay
+en una palabra dada.

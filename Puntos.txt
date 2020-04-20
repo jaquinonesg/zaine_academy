@@ -1,0 +1,7 @@
+Cierra 10
+El ganador tiene 50.000 el perdedor -50.000 
+
+Javier = 2
+Mauricio = 1
+Brandon = 5
+JuanJ = 0
