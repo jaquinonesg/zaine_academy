@@ -1,0 +1,1 @@
+python3 /Users/jaquinonesg/Projects/zaineacademy/every10secs.py

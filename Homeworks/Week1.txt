@@ -5,3 +5,13 @@ tipos de datos.
 
 3- Hacer un algoritmo para identificar cuantas repeticiones de una letra hay
 en una palabra dada.
+
+4- Adivinar el numero: el computador generará un número aleatorio
+entre 0 y 10, no se lo muestra al usuario. El usuario intenta adivinarlo
+ ingresando un número, cada vez que ingresa un número se le debe reportar si
+ adivino o si no adivino. El usuario tiene 3 intentos.
+
+5- Pieda, papel o tijeras: El computador debe seleccionar una de las tres opciones,
+cuando el juegador escoja pieda, papel o tijera se decidirá quién ganó.
+El programa debe reportar al ganador, si hay un empate se debe repetir el juego
+hasta que alguno de los dos gane.

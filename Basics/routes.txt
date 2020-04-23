@@ -1,0 +1,8 @@
+Las rutas identifican la ubicación de un archivo en el sistema de almacenamiento
+Hay 2 tipos de rutas,
+
+Rutas absolutas:
+Rutas desde la raíz hasta el archivo
+
+Rutas relativas:
+Es relativa a la posicion del usuario
