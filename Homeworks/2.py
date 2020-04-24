@@ -1,4 +1,4 @@
-num = int(input('Inserta un numero: '))
+num = int(input('Inserta un número: '))
 value = range(2, num)
 count = 0
 
@@ -9,9 +9,9 @@ for n in value:
         print('Divisor: ', n)
 
 if num < 2:
-    print('El numero no es primo')
+    print('El número no es primo')
 elif count > 0:
-    print('El numero no es primo')
+    print('El número no es primo')
 else:
-    print('El numero es primo')
+    print('El número es primo')
 
