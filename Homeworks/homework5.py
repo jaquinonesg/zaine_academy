@@ -17,7 +17,7 @@ elif option == 3:
 print("You choose: ", userchoose)
 
 if random1 == 0:
-    pcchoose = "piedra"
+    pcchoose = "rock"
 elif random1 == 1:
     pcchoose = "paper"
 elif random1 == 2:
@@ -26,15 +26,15 @@ print("PC chose: ", pcchoose)
 print("...")
 if pcchoose == "rock" and userchoose == "paper":
     print("You win, paper defeat rock")
-elif pcchoose == "papel" and userchoose == "scissors":
+elif pcchoose == "paper" and userchoose == "scissors":
     print("You win, scissors defeat paper")
 elif pcchoose == "scissors" and userchoose == "rock":
     print("You win, rock defeat scissors")
-if pcchoose == "papel" and userchoose == "rock":
+if pcchoose == "paper" and userchoose == "rock":
     print("You lose, paper defeat rock")
 elif pcchoose == "scissors" and userchoose == "paper":
     print("You lose, scissors defeat paper")
-elif pcchoose == "piedra" and userchoose == "scissors":
+elif pcchoose == "rock" and userchoose == "scissors":
     print("You lose, rock defeat scissors")
 elif pcchoose == userchoose:
-    print("tie")
+    print("Tie, try again")
