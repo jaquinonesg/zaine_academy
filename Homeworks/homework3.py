@@ -1,11 +1,7 @@
 
 word = raw_input("Enter a word: ")
 
-z = raw_input("Enter the letter: ")
-
-#o = word.count(z)
-
-#print(o)
+z = raw_input("Enter the letter that u want to count in the word: ")
 
 c = 0
 for i in word:
